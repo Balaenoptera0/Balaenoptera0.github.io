@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://balaenoptera0.github.io/about/index.html</loc>
+    
+    <lastmod>2022-11-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://balaenoptera0.github.io/archives/2afcdd22.html</loc>
     
     <lastmod>2022-11-02</lastmod>
@@ -30,15 +39,6 @@
   
   <url>
     <loc>https://balaenoptera0.github.io/baidu_verify_code-5eBrYQYsEn.html</loc>
-    
-    <lastmod>2022-11-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://balaenoptera0.github.io/about/index.html</loc>
     
     <lastmod>2022-11-02</lastmod>
     
