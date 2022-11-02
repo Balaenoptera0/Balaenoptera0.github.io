@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/baidu_verify_code-5eBrYQYsEn.html</loc>
+    <loc>https://balaenoptera0.github.io/baidu_verify_code-5eBrYQYsEn.html</loc>
     
     <lastmod>2022-11-02</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/about/index.html</loc>
+    <loc>https://balaenoptera0.github.io/about/index.html</loc>
     
     <lastmod>2022-11-02</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2022/11/02/%E6%80%AA%E8%AF%9E%E5%8C%BA%E4%BF%9D%E5%AF%86%E5%8D%8F%E8%AE%AE%E2%80%9C/</loc>
+    <loc>https://balaenoptera0.github.io/2022/11/02/%E6%80%AA%E8%AF%9E%E5%8C%BA%E4%BF%9D%E5%AF%86%E5%8D%8F%E8%AE%AE%E2%80%9C/</loc>
     
     <lastmod>2022-11-02</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2022/11/01/%E6%91%84%E5%BD%B1%E5%8C%BA%E6%80%BB%E8%A7%88%E2%80%9D/</loc>
+    <loc>https://balaenoptera0.github.io/2022/11/01/%E6%91%84%E5%BD%B1%E5%8C%BA%E6%80%BB%E8%A7%88%E2%80%9D/</loc>
     
     <lastmod>2022-11-02</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2022/11/01/hello-world/</loc>
+    <loc>https://balaenoptera0.github.io/2022/11/01/hello-world/</loc>
     
     <lastmod>2022-11-01</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>https://balaenoptera0.github.io/tags/index.html</loc>
     
     <lastmod>2022-11-01</lastmod>
     
@@ -57,7 +57,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://balaenoptera0.github.io/</loc>
     <lastmod>2022-11-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -65,28 +65,28 @@
 
   
   <url>
-    <loc>http://example.com/tags/%E6%96%B0%E4%BA%BA/</loc>
+    <loc>https://balaenoptera0.github.io/tags/%E6%80%AA%E8%AF%9E/</loc>
     <lastmod>2022-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E6%80%AA%E8%AF%9E/</loc>
+    <loc>https://balaenoptera0.github.io/tags/%E6%96%B0%E4%BA%BA/</loc>
     <lastmod>2022-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E6%8C%87%E5%8D%97/</loc>
+    <loc>https://balaenoptera0.github.io/tags/%E6%8C%87%E5%8D%97/</loc>
     <lastmod>2022-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E7%9B%B8%E6%9C%BA/</loc>
+    <loc>https://balaenoptera0.github.io/tags/%E7%9B%B8%E6%9C%BA/</loc>
     <lastmod>2022-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -95,7 +95,7 @@
 
   
   <url>
-    <loc>http://example.com/categories/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/</loc>
+    <loc>https://balaenoptera0.github.io/categories/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/</loc>
     <lastmod>2022-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
