@@ -1,0 +1,8 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://balaenoptera0.github.io/sitemap.xml
+Sitemap: https://balaenoptera0.github.io/baidusitemap.xml
+
+
